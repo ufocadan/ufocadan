@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ufocadan
 - 👀 I’m interested in PL-SQL / SQL / Java / Spring / JavaScript / React JS / React Native 
-- 🌱 I’m currently learning Selenium
+- 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me : unalfocadan@gmail.com
 
