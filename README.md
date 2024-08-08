@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ufocadan
 - 👀 I’m interested in PL-SQL / SQL / Java / Spring / JavaScript / React JS / React Native 
-- 🌱 I’m currently learning Kotlin / Java
-- 💞️ I’m looking to collaborate on Spring / Java projects
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on React / Spring / Java projects
 - 📫 How to reach me : unalfocadan@gmail.com
 
 <!---
